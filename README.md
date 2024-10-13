@@ -2,7 +2,7 @@
 
 ## Desabonnement-Clients-Telecom
 
-**Prédiction de la défection client dans les télécoms** : Saviez-vous qu'acquérir un nouveau client coûte cinq fois plus cher que de fidéliser un client existant ?
+**Prédiction du Désabonnement client dans les télécoms** : Saviez-vous qu'acquérir un nouveau client coûte cinq fois plus cher que de fidéliser un client existant ?
 
 ### Fonctionnalités
 - **Facile à utiliser**
